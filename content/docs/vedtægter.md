@@ -5,6 +5,9 @@ bookToc: false
 ---
 
 # Vedtægter 
+
+Her kommer snart et link til vedtægterne som PDF.
+
 ## 1. Foreningens navn og hjemsted
 
 ### § 1

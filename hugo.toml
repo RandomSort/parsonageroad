@@ -2,6 +2,8 @@ baseURL = 'http://præstegårdsvej.dk'
 languageCode = 'en-us'
 title = 'Grundejerforeningen Præstegårdsvej'
 
+[params]
+  BookSection = 'docs'
 [module]
 [[module.imports]]
 path = 'github.com/alex-shpak/hugo-book'

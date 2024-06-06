@@ -4,4 +4,6 @@ weight: 2
 bookToc: false
 ---
 
-her er indhold
+# Stiftende generalforsamling
+
+Her vil du snart kunne finde referatet fra den stiftende general forsamling, 2. maj 2024.

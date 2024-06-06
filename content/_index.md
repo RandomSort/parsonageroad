@@ -1,3 +1,9 @@
+---
+title: Grundejerforeningen Præstegårdsvej
+weight: 1
+bookToc: false
+---
+
 # Grundejerforeningen Præstegårdsvej
 
 ![Vejskilt fra Præstegårdsvej](/images/vejskilt.jpeg)
