@@ -6,4 +6,4 @@ bookToc: false
 
 # Stiftende generalforsamling
 
-Her vil du snart kunne finde referatet fra den stiftende general forsamling, 2. maj 2024.
+[Referat som PDF](/docs/2024-generalforsamling-referat.pdf)

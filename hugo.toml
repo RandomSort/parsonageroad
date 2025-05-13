@@ -1,7 +1,7 @@
 baseURL = 'http://præstegårdsvej.dk'
 languageCode = 'en-us'
 title = 'Grundejerforeningen Præstegårdsvej'
-
+ignoreFiles = [".DS_Store"]
 [params]
   BookSection = 'docs'
 [module]

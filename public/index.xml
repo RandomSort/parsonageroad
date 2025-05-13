@@ -1,4 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Grundejerforeningen Præstegårdsvej</title><link>http://localhost:1313/</link><description>Recent content on Grundejerforeningen Præstegårdsvej</description><generator>Hugo</generator><language>en-us</language><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml"/><item><title>Stiftende Generalforsamling</title><link>http://localhost:1313/docs/2024/2024-05-02-stiftende-generalforsamling/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/2024/2024-05-02-stiftende-generalforsamling/</guid><description>Stiftende generalforsamling # Her vil du snart kunne finde referatet fra den stiftende general forsamling, 2. maj 2024.</description></item><item><title>Vedtægter</title><link>http://localhost:1313/docs/vedt%C3%A6gter/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/vedt%C3%A6gter/</guid><description>Vedtægter # Her kommer snart et link til vedtægterne som PDF.
-1. Foreningens navn og hjemsted # § 1 # Stk.1. Grundejerforeningens navn er Grundejerforeningen Præstegårdsvej.
-§ 2 # Stk.1. Grundejerforeningen har hjemme i Favrskov Kommune under Retten i Randers.
-Kap. 2. Foreningens område og medlemskreds # § 3 # Stk.1. Grundejerforeningens geografiske område er parceller udstykket fra matriklerne 15bg, 15d, 15cf og del af 13a alle Søften By, Søften og del af matr.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Grundejerforeningen Præstegårdsvej</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Grundejerforeningen Præstegårdsvej</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Generalforsamling</title>
+      <link>http://localhost:1313/docs/2025/2025-03-05-generalforsamling/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/2025/2025-03-05-generalforsamling/</guid>
+      <description>Generalforsamling 5. marts 2025 # Referat som PDF</description>
+    </item>
+    <item>
+      <title>Stiftende Generalforsamling</title>
+      <link>http://localhost:1313/docs/2024/2024-05-02-stiftende-generalforsamling/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/2024/2024-05-02-stiftende-generalforsamling/</guid>
+      <description>Stiftende generalforsamling # Referat som PDF</description>
+    </item>
+    <item>
+      <title>Vedtægter</title>
+      <link>http://localhost:1313/docs/vedt%C3%A6gter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/vedt%C3%A6gter/</guid>
+      <description>Vedtægter # Her kommer snart et link til vedtægterne som PDF.&#xA;1. Foreningens navn og hjemsted # § 1 # Stk.1. Grundejerforeningens navn er Grundejerforeningen Præstegårdsvej.&#xA;§ 2 # Stk.1. Grundejerforeningen har hjemme i Favrskov Kommune under Retten i Randers.&#xA;Kap. 2. Foreningens område og medlemskreds # § 3 # Stk.1. Grundejerforeningens geografiske område er parceller udstykket fra matriklerne 15bg, 15d, 15cf og del af 13a alle Søften By, Søften og del af matr.</description>
+    </item>
+  </channel>
+</rss>
